@@ -61,7 +61,7 @@ export default function HomePage() {
                     width={1200} 
                     height={600} 
                     className="rounded-lg shadow-2xl"
-                    data-ai-hint="digital art collage" 
+                    data-ai-hint="app showcase" 
                 />
             </div>
             <h2 className="text-3xl sm:text-4xl font-bold mb-6">Ready to Create?</h2>
