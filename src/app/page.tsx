@@ -56,7 +56,7 @@ export default function HomePage() {
           <div className="container mx-auto px-4 text-center">
              <div className="max-w-3xl mx-auto mb-12">
                 <Image 
-                    src="https://placehold.co/1024x512.png" 
+                    src="https://erfuoutzrqhpdjnzemyd.supabase.co/storage/v1/object/public/chat-attachments//Generated%20Image%20May%2020,%202025%20-%2010_58PM.jpeg" 
                     alt="Renderri app showcase" 
                     width={1024} 
                     height={512} 
