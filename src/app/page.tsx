@@ -56,12 +56,12 @@ export default function HomePage() {
           <div className="container mx-auto px-4 text-center">
              <div className="max-w-3xl mx-auto mb-12">
                 <Image 
-                    src="https://placehold.co/1200x600.png" 
+                    src="https://placehold.co/1024x512.png" 
                     alt="Renderri app showcase" 
-                    width={1200} 
-                    height={600} 
+                    width={1024} 
+                    height={512} 
                     className="rounded-lg shadow-2xl"
-                    data-ai-hint="app showcase" 
+                    data-ai-hint="product interface" 
                 />
             </div>
             <h2 className="text-3xl sm:text-4xl font-bold mb-6">Ready to Create?</h2>
